@@ -1,0 +1,569 @@
+2025-03-08 11:45:31,731 - WARNING - Skipping malformed line: SQL Injection Scan in progress...
+2025-03-08 11:45:31,933 - WARNING - Skipping malformed line: ___
+2025-03-08 11:45:31,933 - WARNING - Skipping malformed line: __H__
+2025-03-08 11:45:31,933 - WARNING - Skipping malformed line: ___ ___[']_____ ___ ___  {1.9.2#pip}
+2025-03-08 11:45:31,933 - WARNING - Skipping malformed line: |_ -| . ["]     | .'| . |
+2025-03-08 11:45:31,933 - WARNING - Skipping malformed line: |___|_  [.]_|_|_|__,|  _|
+2025-03-08 11:45:31,933 - WARNING - Skipping malformed line: |_|V...       |_|   https://sqlmap.org
+2025-03-08 11:45:31,933 - WARNING - Skipping malformed line: 
+2025-03-08 11:45:31,933 - WARNING - Skipping malformed line: [!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+2025-03-08 11:45:31,933 - WARNING - Skipping malformed line: 
+2025-03-08 11:45:31,933 - WARNING - Skipping malformed line: [*] starting @ 11:45:31 /2025-03-08/
+2025-03-08 11:45:31,933 - WARNING - Skipping malformed line: 
+2025-03-08 11:45:32,033 - WARNING - Skipping malformed line: [11:45:31] [WARNING] the minimum HTTP timeout is 3 seconds, sqlmap will going to reset it
+2025-03-08 11:45:32,033 - WARNING - Skipping malformed line: [11:45:31] [INFO] testing connection to the target URL
+2025-03-08 11:45:32,134 - WARNING - Skipping malformed line: [11:45:32] [WARNING] potential permission problems detected ('Access denied')
+2025-03-08 11:45:32,134 - WARNING - Skipping malformed line: [11:45:32] [WARNING] the web server responded with an HTTP error code (403) which could interfere with the results of the tests
+2025-03-08 11:45:32,134 - WARNING - Skipping malformed line: [11:45:32] [INFO] testing if the target URL content is stable
+2025-03-08 11:45:32,647 - WARNING - Skipping malformed line: [11:45:32] [WARNING] target URL content is not stable (i.e. content differs). sqlmap will base the page comparison on a sequence matcher. If no dynamic nor injectable parameters are detected, or in case of junk results, refer to user's manual paragraph 'Page comparison'
+2025-03-08 11:45:32,647 - WARNING - Skipping malformed line: how do you want to proceed? [(C)ontinue/(s)tring/(r)egex/(q)uit] C
+2025-03-08 11:45:32,647 - WARNING - Skipping malformed line: [11:45:32] [CRITICAL] no parameter(s) found for testing in the provided data (e.g. GET parameter 'id' in 'www.site.com/index.php?id=1'). You are advised to rerun with '--crawl=2'
+2025-03-08 11:45:32,647 - WARNING - Skipping malformed line: [11:45:32] [WARNING] HTTP error codes detected during run:
+2025-03-08 11:45:32,647 - WARNING - Skipping malformed line: 403 (Forbidden) - 2 times
+2025-03-08 11:45:32,647 - WARNING - Skipping malformed line: 
+2025-03-08 11:45:32,647 - WARNING - Skipping malformed line: [*] ending @ 11:45:32 /2025-03-08/
+2025-03-08 11:45:32,647 - WARNING - Skipping malformed line: 
+2025-03-08 19:19:17,450 - WARNING - Skipping malformed line: XSS Scan in progress...
+2025-03-08 19:19:25,231 - WARNING - Skipping malformed line: SQL Injection Scan in progress...
+2025-03-08 19:19:25,540 - WARNING - Skipping malformed line: ___
+2025-03-08 19:19:25,540 - WARNING - Skipping malformed line: __H__
+2025-03-08 19:19:25,540 - WARNING - Skipping malformed line: ___ ___[,]_____ ___ ___  {1.9.2#pip}
+2025-03-08 19:19:25,540 - WARNING - Skipping malformed line: |_ -| . [']     | .'| . |
+2025-03-08 19:19:25,540 - WARNING - Skipping malformed line: |___|_  [.]_|_|_|__,|  _|
+2025-03-08 19:19:25,540 - WARNING - Skipping malformed line: |_|V...       |_|   https://sqlmap.org
+2025-03-08 19:19:25,540 - WARNING - Skipping malformed line: 
+2025-03-08 19:19:25,540 - WARNING - Skipping malformed line: [!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+2025-03-08 19:19:25,540 - WARNING - Skipping malformed line: 
+2025-03-08 19:19:25,540 - WARNING - Skipping malformed line: [*] starting @ 19:19:25 /2025-03-08/
+2025-03-08 19:19:25,540 - WARNING - Skipping malformed line: 
+2025-03-08 19:19:25,540 - WARNING - Skipping malformed line: [19:19:25] [INFO] testing connection to the target URL
+2025-03-08 19:19:25,640 - WARNING - Skipping malformed line: [19:19:25] [WARNING] potential permission problems detected ('Access denied')
+2025-03-08 19:19:25,641 - WARNING - Skipping malformed line: [19:19:25] [WARNING] the web server responded with an HTTP error code (403) which could interfere with the results of the tests
+2025-03-08 19:19:25,641 - WARNING - Skipping malformed line: [19:19:25] [INFO] testing if the target URL content is stable
+2025-03-08 19:19:26,143 - WARNING - Skipping malformed line: [19:19:26] [WARNING] target URL content is not stable (i.e. content differs). sqlmap will base the page comparison on a sequence matcher. If no dynamic nor injectable parameters are detected, or in case of junk results, refer to user's manual paragraph 'Page comparison'
+2025-03-08 19:19:26,143 - WARNING - Skipping malformed line: how do you want to proceed? [(C)ontinue/(s)tring/(r)egex/(q)uit] C
+2025-03-08 19:19:26,143 - WARNING - Skipping malformed line: [19:19:26] [INFO] testing if parameter 'User-Agent' is dynamic
+2025-03-08 19:19:26,143 - WARNING - Skipping malformed line: got a 301 redirect to 'https://tryhackme.com/'. Do you want to follow? [Y/n] Y
+2025-03-08 19:19:27,057 - WARNING - Skipping malformed line: [19:19:26] [INFO] parameter 'User-Agent' appears to be dynamic
+2025-03-08 19:19:27,057 - WARNING - Skipping malformed line: [19:19:27] [WARNING] heuristic (basic) test shows that parameter 'User-Agent' might not be injectable
+2025-03-08 19:19:27,157 - WARNING - Skipping malformed line: [19:19:27] [INFO] testing for SQL injection on parameter 'User-Agent'
+2025-03-08 19:19:27,157 - WARNING - Skipping malformed line: [19:19:27] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+2025-03-08 19:19:29,174 - WARNING - Skipping malformed line: [19:19:29] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause'
+2025-03-08 19:19:46,616 - WARNING - Skipping malformed line: [19:19:46] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (NOT)'
+2025-03-08 19:19:47,734 - WARNING - Skipping malformed line: [19:19:47] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+2025-03-08 19:19:48,344 - WARNING - Skipping malformed line: [19:19:48] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+2025-03-08 19:19:56,222 - WARNING - Skipping malformed line: [19:19:56] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (comment)'
+2025-03-08 19:19:56,727 - WARNING - Skipping malformed line: [19:19:56] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (comment)'
+2025-03-08 19:20:02,741 - WARNING - Skipping malformed line: [19:20:02] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+2025-03-08 19:20:03,450 - WARNING - Skipping malformed line: [19:20:03] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+2025-03-08 19:20:12,624 - WARNING - Skipping malformed line: [19:20:12] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (NOT - MySQL comment)'
+2025-03-08 19:20:13,331 - WARNING - Skipping malformed line: [19:20:13] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+2025-03-08 19:20:13,944 - WARNING - Skipping malformed line: [19:20:13] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+2025-03-08 19:20:22,504 - WARNING - Skipping malformed line: [19:20:22] [INFO] testing 'MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause'
+2025-03-08 19:20:23,722 - WARNING - Skipping malformed line: [19:20:23] [INFO] testing 'MySQL AND boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+2025-03-08 19:20:24,946 - WARNING - Skipping malformed line: [19:20:24] [INFO] testing 'MySQL OR boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+2025-03-08 19:20:42,575 - WARNING - Skipping malformed line: [19:20:42] [INFO] testing 'PostgreSQL AND boolean-based blind - WHERE or HAVING clause (CAST)'
+2025-03-08 19:20:43,693 - WARNING - Skipping malformed line: [19:20:43] [INFO] testing 'PostgreSQL OR boolean-based blind - WHERE or HAVING clause (CAST)'
+2025-03-08 19:20:59,310 - WARNING - Skipping malformed line: [19:20:59] [INFO] testing 'Oracle AND boolean-based blind - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+2025-03-08 19:21:00,527 - WARNING - Skipping malformed line: [19:21:00] [INFO] testing 'Oracle OR boolean-based blind - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+2025-03-08 19:21:04,117 - WARNING - Skipping malformed line: SQL Injection Scan in progress...
+2025-03-08 19:21:04,319 - WARNING - Skipping malformed line: ___
+2025-03-08 19:21:04,319 - WARNING - Skipping malformed line: __H__
+2025-03-08 19:21:04,319 - WARNING - Skipping malformed line: ___ ___[']_____ ___ ___  {1.9.2#pip}
+2025-03-08 19:21:04,319 - WARNING - Skipping malformed line: |_ -| . [)]     | .'| . |
+2025-03-08 19:21:04,319 - WARNING - Skipping malformed line: |___|_  [,]_|_|_|__,|  _|
+2025-03-08 19:21:04,319 - WARNING - Skipping malformed line: |_|V...       |_|   https://sqlmap.org
+2025-03-08 19:21:04,319 - WARNING - Skipping malformed line: 
+2025-03-08 19:21:04,319 - WARNING - Skipping malformed line: [!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+2025-03-08 19:21:04,319 - WARNING - Skipping malformed line: 
+2025-03-08 19:21:04,319 - WARNING - Skipping malformed line: [*] starting @ 19:21:04 /2025-03-08/
+2025-03-08 19:21:04,319 - WARNING - Skipping malformed line: 
+2025-03-08 19:21:04,420 - WARNING - Skipping malformed line: [19:21:04] [INFO] testing connection to the target URL
+2025-03-08 19:21:04,522 - WARNING - Skipping malformed line: [19:21:04] [WARNING] potential permission problems detected ('Access denied')
+2025-03-08 19:21:04,522 - WARNING - Skipping malformed line: [19:21:04] [WARNING] the web server responded with an HTTP error code (403) which could interfere with the results of the tests
+2025-03-08 19:21:04,522 - WARNING - Skipping malformed line: [19:21:04] [INFO] testing if the target URL content is stable
+2025-03-08 19:21:05,025 - WARNING - Skipping malformed line: [19:21:04] [WARNING] target URL content is not stable (i.e. content differs). sqlmap will base the page comparison on a sequence matcher. If no dynamic nor injectable parameters are detected, or in case of junk results, refer to user's manual paragraph 'Page comparison'
+2025-03-08 19:21:05,025 - WARNING - Skipping malformed line: how do you want to proceed? [(C)ontinue/(s)tring/(r)egex/(q)uit] C
+2025-03-08 19:21:05,025 - WARNING - Skipping malformed line: [19:21:04] [INFO] testing if parameter 'User-Agent' is dynamic
+2025-03-08 19:21:05,025 - WARNING - Skipping malformed line: got a 301 redirect to 'https://tryhackme.com/'. Do you want to follow? [Y/n] Y
+2025-03-08 19:21:05,526 - WARNING - Skipping malformed line: SQL Injection Scan in progress...
+2025-03-08 19:21:05,528 - WARNING - Skipping malformed line: [19:21:05] [INFO] parameter 'User-Agent' appears to be dynamic
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: SQL Injection Scan in progress...
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: [19:21:05] [WARNING] heuristic (basic) test shows that parameter 'User-Agent' might not be injectable
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: ___
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: __H__
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: ___ ___["]_____ ___ ___  {1.9.2#pip}
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: |_ -| . [,]     | .'| . |
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: |___|_  ["]_|_|_|__,|  _|
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: |_|V...       |_|   https://sqlmap.org
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: 
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: [!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: 
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: [*] starting @ 19:21:05 /2025-03-08/
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: 
+2025-03-08 19:21:05,626 - WARNING - Skipping malformed line: [19:21:05] [INFO] testing connection to the target URL
+2025-03-08 19:21:05,678 - WARNING - Skipping malformed line: [19:21:05] [INFO] testing for SQL injection on parameter 'User-Agent'
+2025-03-08 19:21:05,678 - WARNING - Skipping malformed line: [19:21:05] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+2025-03-08 19:21:05,727 - WARNING - Skipping malformed line: [19:21:05] [WARNING] potential permission problems detected ('Access denied')
+2025-03-08 19:21:05,727 - WARNING - Skipping malformed line: [19:21:05] [WARNING] the web server responded with an HTTP error code (403) which could interfere with the results of the tests
+2025-03-08 19:21:05,727 - WARNING - Skipping malformed line: [19:21:05] [INFO] testing if the target URL content is stable
+2025-03-08 19:21:05,727 - WARNING - Skipping malformed line: ___
+2025-03-08 19:21:05,727 - WARNING - Skipping malformed line: __H__
+2025-03-08 19:21:05,727 - WARNING - Skipping malformed line: ___ ___[']_____ ___ ___  {1.9.2#pip}
+2025-03-08 19:21:05,727 - WARNING - Skipping malformed line: |_ -| . [(]     | .'| . |
+2025-03-08 19:21:05,727 - WARNING - Skipping malformed line: |___|_  ["]_|_|_|__,|  _|
+2025-03-08 19:21:05,727 - WARNING - Skipping malformed line: |_|V...       |_|   https://sqlmap.org
+2025-03-08 19:21:05,727 - WARNING - Skipping malformed line: 
+2025-03-08 19:21:05,729 - WARNING - Skipping malformed line: [!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+2025-03-08 19:21:05,729 - WARNING - Skipping malformed line: 
+2025-03-08 19:21:05,729 - WARNING - Skipping malformed line: [*] starting @ 19:21:05 /2025-03-08/
+2025-03-08 19:21:05,729 - WARNING - Skipping malformed line: 
+2025-03-08 19:21:05,779 - WARNING - Skipping malformed line: [19:21:05] [INFO] testing connection to the target URL
+2025-03-08 19:21:05,880 - WARNING - Skipping malformed line: [19:21:05] [WARNING] potential permission problems detected ('Access denied')
+2025-03-08 19:21:05,880 - WARNING - Skipping malformed line: [19:21:05] [WARNING] the web server responded with an HTTP error code (403) which could interfere with the results of the tests
+2025-03-08 19:21:05,880 - WARNING - Skipping malformed line: [19:21:05] [INFO] testing if the target URL content is stable
+2025-03-08 19:21:06,232 - WARNING - Skipping malformed line: [19:21:06] [WARNING] target URL content is not stable (i.e. content differs). sqlmap will base the page comparison on a sequence matcher. If no dynamic nor injectable parameters are detected, or in case of junk results, refer to user's manual paragraph 'Page comparison'
+2025-03-08 19:21:06,232 - WARNING - Skipping malformed line: how do you want to proceed? [(C)ontinue/(s)tring/(r)egex/(q)uit] C
+2025-03-08 19:21:06,232 - WARNING - Skipping malformed line: [19:21:06] [INFO] testing if parameter 'User-Agent' is dynamic
+2025-03-08 19:21:06,232 - WARNING - Skipping malformed line: got a 301 redirect to 'https://tryhackme.com/'. Do you want to follow? [Y/n] Y
+2025-03-08 19:21:06,332 - WARNING - Skipping malformed line: [19:21:06] [WARNING] target URL content is not stable (i.e. content differs). sqlmap will base the page comparison on a sequence matcher. If no dynamic nor injectable parameters are detected, or in case of junk results, refer to user's manual paragraph 'Page comparison'
+2025-03-08 19:21:06,332 - WARNING - Skipping malformed line: how do you want to proceed? [(C)ontinue/(s)tring/(r)egex/(q)uit] C
+2025-03-08 19:21:06,332 - WARNING - Skipping malformed line: [19:21:06] [INFO] testing if parameter 'User-Agent' is dynamic
+2025-03-08 19:21:06,383 - WARNING - Skipping malformed line: got a 301 redirect to 'https://tryhackme.com/'. Do you want to follow? [Y/n] Y
+2025-03-08 19:21:06,734 - WARNING - Skipping malformed line: [19:21:06] [INFO] parameter 'User-Agent' appears to be dynamic
+2025-03-08 19:21:06,786 - WARNING - Skipping malformed line: [19:21:06] [INFO] parameter 'User-Agent' appears to be dynamic
+2025-03-08 19:21:06,786 - WARNING - Skipping malformed line: [19:21:06] [WARNING] heuristic (basic) test shows that parameter 'User-Agent' might not be injectable
+2025-03-08 19:21:06,835 - WARNING - Skipping malformed line: [19:21:06] [WARNING] heuristic (basic) test shows that parameter 'User-Agent' might not be injectable
+2025-03-08 19:21:06,886 - WARNING - Skipping malformed line: [19:21:06] [INFO] testing for SQL injection on parameter 'User-Agent'
+2025-03-08 19:21:06,886 - WARNING - Skipping malformed line: [19:21:06] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+2025-03-08 19:21:06,886 - WARNING - Skipping malformed line: [19:21:06] [INFO] testing for SQL injection on parameter 'User-Agent'
+2025-03-08 19:21:06,936 - WARNING - Skipping malformed line: [19:21:06] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+2025-03-08 19:21:07,560 - WARNING - Skipping malformed line: [19:21:07] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause'
+2025-03-08 19:21:08,870 - WARNING - Skipping malformed line: [19:21:08] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause'
+2025-03-08 19:21:08,870 - WARNING - Skipping malformed line: [19:21:08] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause'
+2025-03-08 19:21:09,574 - WARNING - Skipping malformed line: [19:21:09] [INFO] testing 'SQLite AND boolean-based blind - WHERE, HAVING, GROUP BY or HAVING clause (JSON)'
+2025-03-08 19:21:10,768 - WARNING - Skipping malformed line: [19:21:10] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (NOT)'
+2025-03-08 19:21:10,769 - WARNING - Skipping malformed line: [19:21:10] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (NOT)'
+2025-03-08 19:21:10,769 - WARNING - Skipping malformed line: [19:21:10] [INFO] testing 'SQLite OR boolean-based blind - WHERE, HAVING, GROUP BY or HAVING clause (JSON)'
+2025-03-08 19:21:10,870 - WARNING - Skipping malformed line: [19:21:10] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (NOT)'
+2025-03-08 19:21:11,675 - WARNING - Skipping malformed line: [19:21:11] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+2025-03-08 19:21:11,776 - WARNING - Skipping malformed line: [19:21:11] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+2025-03-08 19:21:12,077 - WARNING - Skipping malformed line: [19:21:12] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+2025-03-08 19:21:12,380 - WARNING - Skipping malformed line: [19:21:12] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+2025-03-08 19:21:12,380 - WARNING - Skipping malformed line: [19:21:12] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+2025-03-08 19:21:12,581 - WARNING - Skipping malformed line: [19:21:12] [INFO] testing 'Boolean-based blind - Parameter replace (original value)'
+2025-03-08 19:21:12,581 - WARNING - Skipping malformed line: [19:21:12] [INFO] testing 'PostgreSQL boolean-based blind - Parameter replace'
+2025-03-08 19:21:12,682 - WARNING - Skipping malformed line: [19:21:12] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - Parameter replace'
+2025-03-08 19:21:12,682 - WARNING - Skipping malformed line: [19:21:12] [INFO] testing 'Oracle boolean-based blind - Parameter replace'
+2025-03-08 19:21:12,682 - WARNING - Skipping malformed line: [19:21:12] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+2025-03-08 19:21:12,883 - WARNING - Skipping malformed line: [19:21:12] [INFO] testing 'Informix boolean-based blind - Parameter replace'
+2025-03-08 19:21:12,883 - WARNING - Skipping malformed line: [19:21:12] [INFO] testing 'Microsoft Access boolean-based blind - Parameter replace'
+2025-03-08 19:21:12,883 - WARNING - Skipping malformed line: [19:21:12] [INFO] testing 'Boolean-based blind - Parameter replace (DUAL)'
+2025-03-08 19:21:12,984 - WARNING - Skipping malformed line: [19:21:12] [INFO] testing 'Boolean-based blind - Parameter replace (DUAL - original value)'
+2025-03-08 19:21:13,388 - WARNING - Skipping malformed line: [19:21:13] [INFO] testing 'Boolean-based blind - Parameter replace (CASE)'
+2025-03-08 19:21:13,388 - WARNING - Skipping malformed line: [19:21:13] [INFO] testing 'Boolean-based blind - Parameter replace (CASE - original value)'
+2025-03-08 19:21:13,489 - WARNING - Skipping malformed line: [19:21:13] [INFO] testing 'MySQL >= 5.0 boolean-based blind - ORDER BY, GROUP BY clause'
+2025-03-08 19:21:13,590 - WARNING - Skipping malformed line: [19:21:13] [INFO] testing 'MySQL >= 5.0 boolean-based blind - ORDER BY, GROUP BY clause (original value)'
+2025-03-08 19:21:13,691 - WARNING - Skipping malformed line: [19:21:13] [INFO] testing 'MySQL < 5.0 boolean-based blind - ORDER BY, GROUP BY clause'
+2025-03-08 19:21:13,691 - WARNING - Skipping malformed line: [19:21:13] [INFO] testing 'PostgreSQL boolean-based blind - ORDER BY, GROUP BY clause'
+2025-03-08 19:21:13,792 - WARNING - Skipping malformed line: [19:21:13] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (comment)'
+2025-03-08 19:21:13,893 - WARNING - Skipping malformed line: [19:21:13] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - ORDER BY clause'
+2025-03-08 19:21:13,993 - WARNING - Skipping malformed line: [19:21:13] [INFO] testing 'Oracle boolean-based blind - ORDER BY, GROUP BY clause'
+2025-03-08 19:21:14,094 - WARNING - Skipping malformed line: [19:21:14] [INFO] testing 'HAVING boolean-based blind - WHERE, GROUP BY clause'
+2025-03-08 19:21:14,195 - WARNING - Skipping malformed line: [19:21:14] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (comment)'
+2025-03-08 19:21:14,296 - WARNING - Skipping malformed line: [19:21:14] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (comment)'
+2025-03-08 19:21:14,296 - WARNING - Skipping malformed line: [19:21:14] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (comment)'
+2025-03-08 19:21:14,597 - WARNING - Skipping malformed line: [19:21:14] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (comment)'
+2025-03-08 19:21:14,798 - WARNING - Skipping malformed line: [19:21:14] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (comment)'
+2025-03-08 19:21:14,999 - WARNING - Skipping malformed line: [19:21:14] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+2025-03-08 19:21:15,201 - WARNING - Skipping malformed line: [19:21:15] [INFO] testing 'PostgreSQL boolean-based blind - Stacked queries'
+2025-03-08 19:21:15,301 - WARNING - Skipping malformed line: [19:21:15] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+2025-03-08 19:21:15,503 - WARNING - Skipping malformed line: [19:21:15] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+2025-03-08 19:21:15,603 - WARNING - Skipping malformed line: [19:21:15] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+2025-03-08 19:21:15,804 - WARNING - Skipping malformed line: [19:21:15] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - Stacked queries (IF)'
+2025-03-08 19:21:16,005 - WARNING - Skipping malformed line: [19:21:15] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+2025-03-08 19:21:16,106 - WARNING - Skipping malformed line: [19:21:16] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+2025-03-08 19:21:16,509 - WARNING - Skipping malformed line: [19:21:16] [INFO] testing 'MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+2025-03-08 19:21:16,509 - WARNING - Skipping malformed line: [19:21:16] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (NOT - MySQL comment)'
+2025-03-08 19:21:16,913 - WARNING - Skipping malformed line: [19:21:16] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (NOT - MySQL comment)'
+2025-03-08 19:21:17,013 - WARNING - Skipping malformed line: [19:21:17] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (NOT - MySQL comment)'
+2025-03-08 19:21:17,114 - WARNING - Skipping malformed line: [19:21:17] [INFO] testing 'MySQL >= 5.0 OR error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+2025-03-08 19:21:17,114 - WARNING - Skipping malformed line: [19:21:17] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+2025-03-08 19:21:17,417 - WARNING - Skipping malformed line: [19:21:17] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+2025-03-08 19:21:17,618 - WARNING - Skipping malformed line: [19:21:17] [INFO] testing 'MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (EXTRACTVALUE)'
+2025-03-08 19:21:17,619 - WARNING - Skipping malformed line: [19:21:17] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+2025-03-08 19:21:17,719 - WARNING - Skipping malformed line: [19:21:17] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+2025-03-08 19:21:18,122 - WARNING - Skipping malformed line: [19:21:18] [INFO] testing 'MySQL >= 5.1 OR error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (EXTRACTVALUE)'
+2025-03-08 19:21:18,122 - WARNING - Skipping malformed line: [19:21:18] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+2025-03-08 19:21:18,223 - WARNING - Skipping malformed line: [19:21:18] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+2025-03-08 19:21:18,628 - WARNING - Skipping malformed line: [19:21:18] [INFO] testing 'MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause'
+2025-03-08 19:21:18,628 - WARNING - Skipping malformed line: [19:21:18] [INFO] testing 'MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (UPDATEXML)'
+2025-03-08 19:21:19,031 - WARNING - Skipping malformed line: [19:21:18] [INFO] testing 'MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause'
+2025-03-08 19:21:19,232 - WARNING - Skipping malformed line: [19:21:19] [INFO] testing 'MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause'
+2025-03-08 19:21:19,232 - WARNING - Skipping malformed line: [19:21:19] [INFO] testing 'MySQL >= 5.1 OR error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (UPDATEXML)'
+2025-03-08 19:21:19,836 - WARNING - Skipping malformed line: [19:21:19] [INFO] testing 'MySQL >= 4.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+2025-03-08 19:21:19,837 - WARNING - Skipping malformed line: [19:21:19] [INFO] testing 'MySQL AND boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+2025-03-08 19:21:20,243 - WARNING - Skipping malformed line: [19:21:20] [INFO] testing 'MySQL AND boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+2025-03-08 19:21:20,346 - WARNING - Skipping malformed line: [19:21:20] [INFO] testing 'MySQL AND boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+2025-03-08 19:21:20,346 - WARNING - Skipping malformed line: [19:21:20] [INFO] testing 'MySQL >= 4.1 OR error-based - WHERE or HAVING clause (FLOOR)'
+2025-03-08 19:21:20,853 - WARNING - Skipping malformed line: [19:21:20] [INFO] testing 'PostgreSQL AND error-based - WHERE or HAVING clause'
+2025-03-08 19:21:20,954 - WARNING - Skipping malformed line: [19:21:20] [INFO] testing 'MySQL OR boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+2025-03-08 19:21:21,559 - WARNING - Skipping malformed line: [19:21:21] [INFO] testing 'PostgreSQL OR error-based - WHERE or HAVING clause'
+2025-03-08 19:21:21,559 - WARNING - Skipping malformed line: [19:21:21] [INFO] testing 'MySQL OR boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+2025-03-08 19:21:21,761 - WARNING - Skipping malformed line: [19:21:21] [INFO] testing 'MySQL OR boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+2025-03-08 19:21:22,265 - WARNING - Skipping malformed line: [19:21:22] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (IN)'
+2025-03-08 19:21:22,769 - WARNING - Skipping malformed line: [19:21:22] [INFO] testing 'Microsoft SQL Server/Sybase OR error-based - WHERE or HAVING clause (IN)'
+2025-03-08 19:21:22,970 - WARNING - Skipping malformed line: [19:21:22] [INFO] testing 'PostgreSQL AND boolean-based blind - WHERE or HAVING clause (CAST)'
+2025-03-08 19:21:23,374 - WARNING - Skipping malformed line: [19:21:23] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (CONVERT)'
+2025-03-08 19:21:23,375 - WARNING - Skipping malformed line: [19:21:23] [INFO] testing 'PostgreSQL AND boolean-based blind - WHERE or HAVING clause (CAST)'
+2025-03-08 19:21:23,475 - WARNING - Skipping malformed line: [19:21:23] [INFO] testing 'PostgreSQL AND boolean-based blind - WHERE or HAVING clause (CAST)'
+2025-03-08 19:21:23,877 - WARNING - Skipping malformed line: [19:21:23] [INFO] testing 'Microsoft SQL Server/Sybase OR error-based - WHERE or HAVING clause (CONVERT)'
+2025-03-08 19:21:23,977 - WARNING - Skipping malformed line: [19:21:23] [INFO] testing 'PostgreSQL OR boolean-based blind - WHERE or HAVING clause (CAST)'
+2025-03-08 19:21:24,481 - WARNING - Skipping malformed line: [19:21:24] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (CONCAT)'
+2025-03-08 19:21:24,481 - WARNING - Skipping malformed line: [19:21:24] [INFO] testing 'PostgreSQL OR boolean-based blind - WHERE or HAVING clause (CAST)'
+2025-03-08 19:21:24,581 - WARNING - Skipping malformed line: [19:21:24] [INFO] testing 'PostgreSQL OR boolean-based blind - WHERE or HAVING clause (CAST)'
+2025-03-08 19:21:25,086 - WARNING - Skipping malformed line: [19:21:25] [INFO] testing 'Microsoft SQL Server/Sybase OR error-based - WHERE or HAVING clause (CONCAT)'
+2025-03-08 19:21:25,692 - WARNING - Skipping malformed line: [19:21:25] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (XMLType)'
+2025-03-08 19:21:25,893 - WARNING - Skipping malformed line: [19:21:25] [INFO] testing 'Oracle AND boolean-based blind - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+2025-03-08 19:21:26,195 - WARNING - Skipping malformed line: [19:21:26] [INFO] testing 'Oracle OR error-based - WHERE or HAVING clause (XMLType)'
+2025-03-08 19:21:26,297 - WARNING - Skipping malformed line: [19:21:26] [INFO] testing 'Oracle AND boolean-based blind - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+2025-03-08 19:21:26,498 - WARNING - Skipping malformed line: [19:21:26] [INFO] testing 'Oracle AND boolean-based blind - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+2025-03-08 19:21:26,701 - WARNING - Skipping malformed line: [19:21:26] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (UTL_INADDR.GET_HOST_ADDRESS)'
+2025-03-08 19:44:06,833 - WARNING - Skipping malformed line: SQL Injection Scan in progress...
+2025-03-08 19:44:07,034 - WARNING - Skipping malformed line: ___
+2025-03-08 19:44:07,034 - WARNING - Skipping malformed line: __H__
+2025-03-08 19:44:07,034 - WARNING - Skipping malformed line: ___ ___[(]_____ ___ ___  {1.9.2#pip}
+2025-03-08 19:44:07,034 - WARNING - Skipping malformed line: |_ -| . [']     | .'| . |
+2025-03-08 19:44:07,034 - WARNING - Skipping malformed line: |___|_  [.]_|_|_|__,|  _|
+2025-03-08 19:44:07,034 - WARNING - Skipping malformed line: |_|V...       |_|   https://sqlmap.org
+2025-03-08 19:44:07,034 - WARNING - Skipping malformed line: 
+2025-03-08 19:44:07,034 - WARNING - Skipping malformed line: [!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+2025-03-08 19:44:07,034 - WARNING - Skipping malformed line: 
+2025-03-08 19:44:07,034 - WARNING - Skipping malformed line: [*] starting @ 19:44:06 /2025-03-08/
+2025-03-08 19:44:07,034 - WARNING - Skipping malformed line: 
+2025-03-08 19:44:07,541 - WARNING - Skipping malformed line: [19:44:07] [INFO] testing connection to the target URL
+2025-03-08 19:44:08,345 - WARNING - Skipping malformed line: [19:44:08] [INFO] checking if the target is protected by some kind of WAF/IPS
+2025-03-08 19:44:08,647 - WARNING - Skipping malformed line: [19:44:08] [INFO] testing if the target URL content is stable
+2025-03-08 19:44:09,353 - WARNING - Skipping malformed line: [19:44:09] [INFO] target URL content is stable
+2025-03-08 19:44:09,354 - WARNING - Skipping malformed line: [19:44:09] [INFO] testing if parameter 'User-Agent' is dynamic
+2025-03-08 19:44:09,657 - WARNING - Skipping malformed line: [19:44:09] [WARNING] parameter 'User-Agent' does not appear to be dynamic
+2025-03-08 19:44:09,960 - WARNING - Skipping malformed line: [19:44:09] [WARNING] heuristic (basic) test shows that parameter 'User-Agent' might not be injectable
+2025-03-08 19:44:10,364 - WARNING - Skipping malformed line: [19:44:10] [INFO] testing for SQL injection on parameter 'User-Agent'
+2025-03-08 19:44:10,364 - WARNING - Skipping malformed line: [19:44:10] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+2025-03-08 19:44:19,128 - WARNING - Skipping malformed line: [19:44:19] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause'
+2025-03-08 19:44:36,951 - WARNING - Skipping malformed line: [19:44:36] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (NOT)'
+2025-03-08 19:44:45,922 - WARNING - Skipping malformed line: [19:44:45] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+2025-03-08 19:44:50,816 - WARNING - Skipping malformed line: [19:44:50] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+2025-03-08 19:45:01,623 - WARNING - Skipping malformed line: [19:45:01] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (comment)'
+2025-03-08 19:45:05,696 - WARNING - Skipping malformed line: [19:45:05] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (comment)'
+2025-03-08 19:45:13,138 - WARNING - Skipping malformed line: [19:45:13] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+2025-03-08 19:45:18,313 - WARNING - Skipping malformed line: [19:45:18] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+2025-03-08 19:46:42,857 - WARNING - Skipping malformed line: SQL Injection Scan in progress...
+2025-03-08 19:46:43,059 - WARNING - Skipping malformed line: ___
+2025-03-08 19:46:43,059 - WARNING - Skipping malformed line: __H__
+2025-03-08 19:46:43,059 - WARNING - Skipping malformed line: ___ ___[)]_____ ___ ___  {1.9.2#pip}
+2025-03-08 19:46:43,059 - WARNING - Skipping malformed line: |_ -| . [)]     | .'| . |
+2025-03-08 19:46:43,059 - WARNING - Skipping malformed line: |___|_  [)]_|_|_|__,|  _|
+2025-03-08 19:46:43,059 - WARNING - Skipping malformed line: |_|V...       |_|   https://sqlmap.org
+2025-03-08 19:46:43,059 - WARNING - Skipping malformed line: 
+2025-03-08 19:46:43,059 - WARNING - Skipping malformed line: [!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+2025-03-08 19:46:43,059 - WARNING - Skipping malformed line: 
+2025-03-08 19:46:43,059 - WARNING - Skipping malformed line: [*] starting @ 19:46:43 /2025-03-08/
+2025-03-08 19:46:43,059 - WARNING - Skipping malformed line: 
+2025-03-08 19:46:43,059 - WARNING - Skipping malformed line: [19:46:43] [WARNING] the minimum HTTP timeout is 3 seconds, sqlmap will going to reset it
+2025-03-08 19:46:43,160 - WARNING - Skipping malformed line: [19:46:43] [INFO] testing connection to the target URL
+2025-03-08 19:46:43,260 - WARNING - Skipping malformed line: [19:46:43] [WARNING] potential permission problems detected ('Access denied')
+2025-03-08 19:46:43,260 - WARNING - Skipping malformed line: [19:46:43] [WARNING] the web server responded with an HTTP error code (403) which could interfere with the results of the tests
+2025-03-08 19:46:43,260 - WARNING - Skipping malformed line: [19:46:43] [INFO] testing if the target URL content is stable
+2025-03-08 19:46:43,767 - WARNING - Skipping malformed line: [19:46:43] [WARNING] target URL content is not stable (i.e. content differs). sqlmap will base the page comparison on a sequence matcher. If no dynamic nor injectable parameters are detected, or in case of junk results, refer to user's manual paragraph 'Page comparison'
+2025-03-08 19:46:43,767 - WARNING - Skipping malformed line: how do you want to proceed? [(C)ontinue/(s)tring/(r)egex/(q)uit] C
+2025-03-08 19:46:43,767 - WARNING - Skipping malformed line: [19:46:43] [CRITICAL] no parameter(s) found for testing in the provided data (e.g. GET parameter 'id' in 'www.site.com/index.php?id=1'). You are advised to rerun with '--crawl=2'
+2025-03-08 19:46:43,767 - WARNING - Skipping malformed line: [19:46:43] [WARNING] HTTP error codes detected during run:
+2025-03-08 19:46:43,767 - WARNING - Skipping malformed line: 403 (Forbidden) - 2 times
+2025-03-08 19:46:43,767 - WARNING - Skipping malformed line: 
+2025-03-08 19:46:43,767 - WARNING - Skipping malformed line: [*] ending @ 19:46:43 /2025-03-08/
+2025-03-08 19:46:43,767 - WARNING - Skipping malformed line: 
+2025-03-08 19:46:50,411 - WARNING - Skipping malformed line: XSS Scan in progress...
+2025-03-08 19:46:53,044 - WARNING - Skipping malformed line: SQL Injection Scan in progress...
+2025-03-08 19:46:53,153 - WARNING - Skipping malformed line: ___
+2025-03-08 19:46:53,153 - WARNING - Skipping malformed line: __H__
+2025-03-08 19:46:53,153 - WARNING - Skipping malformed line: ___ ___[,]_____ ___ ___  {1.9.2#pip}
+2025-03-08 19:46:53,153 - WARNING - Skipping malformed line: |_ -| . [)]     | .'| . |
+2025-03-08 19:46:53,153 - WARNING - Skipping malformed line: |___|_  [,]_|_|_|__,|  _|
+2025-03-08 19:46:53,153 - WARNING - Skipping malformed line: |_|V...       |_|   https://sqlmap.org
+2025-03-08 19:46:53,153 - WARNING - Skipping malformed line: 
+2025-03-08 19:46:53,190 - WARNING - Skipping malformed line: [!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+2025-03-08 19:46:53,190 - WARNING - Skipping malformed line: 
+2025-03-08 19:46:53,191 - WARNING - Skipping malformed line: [*] starting @ 19:46:53 /2025-03-08/
+2025-03-08 19:46:53,191 - WARNING - Skipping malformed line: 
+2025-03-08 19:46:53,191 - WARNING - Skipping malformed line: [19:46:53] [WARNING] the minimum HTTP timeout is 3 seconds, sqlmap will going to reset it
+2025-03-08 19:46:53,191 - WARNING - Skipping malformed line: [19:46:53] [INFO] testing connection to the target URL
+2025-03-08 19:46:53,291 - WARNING - Skipping malformed line: [19:46:53] [WARNING] potential permission problems detected ('Access denied')
+2025-03-08 19:46:53,291 - WARNING - Skipping malformed line: [19:46:53] [WARNING] the web server responded with an HTTP error code (403) which could interfere with the results of the tests
+2025-03-08 19:46:53,291 - WARNING - Skipping malformed line: [19:46:53] [INFO] testing if the target URL content is stable
+2025-03-08 19:46:53,793 - WARNING - Skipping malformed line: [19:46:53] [WARNING] target URL content is not stable (i.e. content differs). sqlmap will base the page comparison on a sequence matcher. If no dynamic nor injectable parameters are detected, or in case of junk results, refer to user's manual paragraph 'Page comparison'
+2025-03-08 19:46:53,793 - WARNING - Skipping malformed line: how do you want to proceed? [(C)ontinue/(s)tring/(r)egex/(q)uit] C
+2025-03-08 19:46:53,793 - WARNING - Skipping malformed line: [19:46:53] [CRITICAL] no parameter(s) found for testing in the provided data (e.g. GET parameter 'id' in 'www.site.com/index.php?id=1'). You are advised to rerun with '--crawl=2'
+2025-03-08 19:46:53,793 - WARNING - Skipping malformed line: [19:46:53] [WARNING] HTTP error codes detected during run:
+2025-03-08 19:46:53,793 - WARNING - Skipping malformed line: 403 (Forbidden) - 2 times
+2025-03-08 19:46:53,793 - WARNING - Skipping malformed line: 
+2025-03-08 19:46:53,793 - WARNING - Skipping malformed line: [*] ending @ 19:46:53 /2025-03-08/
+2025-03-08 19:46:53,793 - WARNING - Skipping malformed line: 
+2025-03-08 19:46:53,793 - WARNING - Skipping malformed line: XSS Scan in progress...
+2025-03-08 19:46:53,793 - WARNING - Skipping malformed line: Running Nmap Scan...
+2025-03-08 19:46:53,950 - WARNING - Skipping malformed line: Starting Nmap 7.94 ( https://nmap.org ) at 2025-03-08 19:46 +0545
+2025-03-08 19:47:59,422 - WARNING - Skipping malformed line: Nmap scan report for tryhackme.com (104.22.54.228)
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: Host is up (0.0088s latency).
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: Other addresses for tryhackme.com (not scanned): 2606:4700:10::6816:36e4 2606:4700:10::ac43:1b0a 2606:4700:10::6816:37e4 104.22.55.228 172.67.27.10
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: Not shown: 996 filtered tcp ports (no-response)
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: PORT     STATE SERVICE  VERSION
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: 80/tcp   open  http     Cloudflare http proxy
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-title: Did not follow redirect to https://tryhackme.com/
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: 443/tcp  open  ssl/http Cloudflare http proxy
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | http-robots.txt: 3 disallowed entries
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | /voucher/* /path/outline/introtocyber
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_/path/outline/beginner
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | ssl-cert: Subject: commonName=tryhackme.com
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | Subject Alternative Name: DNS:tryhackme.com, DNS:*.tryhackme.com
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | Not valid before: 2025-02-02T01:04:55
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_Not valid after:  2025-05-03T02:04:50
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-trane-info: Problem with XML parsing of /evox/about
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: 8080/tcp open  http     Cloudflare http proxy
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-title: Did not follow redirect to https://tryhackme.com/
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: 8443/tcp open  ssl/http Cloudflare http proxy
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-trane-info: Problem with XML parsing of /evox/about
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | http-robots.txt: 3 disallowed entries
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | /voucher/* /path/outline/introtocyber
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_/path/outline/beginner
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | ssl-cert: Subject: commonName=tryhackme.com
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | Subject Alternative Name: DNS:tryhackme.com, DNS:*.tryhackme.com
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | Not valid before: 2025-02-02T01:04:55
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_Not valid after:  2025-05-03T02:04:50
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: 
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: Nmap done: 1 IP address (1 host up) scanned in 65.52 seconds
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: Nmap Scan Completed.
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: ====== Nmap Scan Report ======
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: # Nmap 7.94 scan initiated Sat Mar  8 19:46:53 2025 as: nmap -sV -A -T4 -oN nmap_results.txt tryhackme.com
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: Nmap scan report for tryhackme.com (104.22.54.228)
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: Host is up (0.0088s latency).
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: Other addresses for tryhackme.com (not scanned): 2606:4700:10::6816:36e4 2606:4700:10::ac43:1b0a 2606:4700:10::6816:37e4 104.22.55.228 172.67.27.10
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: Not shown: 996 filtered tcp ports (no-response)
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: PORT     STATE SERVICE  VERSION
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: 80/tcp   open  http     Cloudflare http proxy
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-title: Did not follow redirect to https://tryhackme.com/
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: 443/tcp  open  ssl/http Cloudflare http proxy
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | http-robots.txt: 3 disallowed entries
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | /voucher/* /path/outline/introtocyber
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_/path/outline/beginner
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | ssl-cert: Subject: commonName=tryhackme.com
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | Subject Alternative Name: DNS:tryhackme.com, DNS:*.tryhackme.com
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: | Not valid before: 2025-02-02T01:04:55
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_Not valid after:  2025-05-03T02:04:50
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-trane-info: Problem with XML parsing of /evox/about
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: 8080/tcp open  http     Cloudflare http proxy
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-title: Did not follow redirect to https://tryhackme.com/
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: 8443/tcp open  ssl/http Cloudflare http proxy
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-trane-info: Problem with XML parsing of /evox/about
+2025-03-08 19:47:59,423 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 19:47:59,424 - WARNING - Skipping malformed line: | http-robots.txt: 3 disallowed entries
+2025-03-08 19:47:59,424 - WARNING - Skipping malformed line: | /voucher/* /path/outline/introtocyber
+2025-03-08 19:47:59,424 - WARNING - Skipping malformed line: |_/path/outline/beginner
+2025-03-08 19:47:59,424 - WARNING - Skipping malformed line: | ssl-cert: Subject: commonName=tryhackme.com
+2025-03-08 19:47:59,424 - WARNING - Skipping malformed line: | Subject Alternative Name: DNS:tryhackme.com, DNS:*.tryhackme.com
+2025-03-08 19:47:59,424 - WARNING - Skipping malformed line: | Not valid before: 2025-02-02T01:04:55
+2025-03-08 19:47:59,424 - WARNING - Skipping malformed line: |_Not valid after:  2025-05-03T02:04:50
+2025-03-08 19:47:59,424 - WARNING - Skipping malformed line: 
+2025-03-08 19:47:59,424 - WARNING - Skipping malformed line: Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+2025-03-08 19:47:59,424 - WARNING - Skipping malformed line: # Nmap done at Sat Mar  8 19:47:59 2025 -- 1 IP address (1 host up) scanned in 65.52 seconds
+2025-03-08 19:47:59,424 - WARNING - Skipping malformed line: ==============================
+2025-03-08 19:48:19,016 - WARNING - Skipping malformed line: SQL Injection Scan in progress...
+2025-03-08 19:48:19,300 - WARNING - Skipping malformed line: ___
+2025-03-08 19:48:19,301 - WARNING - Skipping malformed line: __H__
+2025-03-08 19:48:19,301 - WARNING - Skipping malformed line: ___ ___[)]_____ ___ ___  {1.9.2#pip}
+2025-03-08 19:48:19,301 - WARNING - Skipping malformed line: |_ -| . [.]     | .'| . |
+2025-03-08 19:48:19,301 - WARNING - Skipping malformed line: |___|_  [,]_|_|_|__,|  _|
+2025-03-08 19:48:19,301 - WARNING - Skipping malformed line: |_|V...       |_|   https://sqlmap.org
+2025-03-08 19:48:19,301 - WARNING - Skipping malformed line: 
+2025-03-08 19:48:19,301 - WARNING - Skipping malformed line: [!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+2025-03-08 19:48:19,301 - WARNING - Skipping malformed line: 
+2025-03-08 19:48:19,301 - WARNING - Skipping malformed line: [*] starting @ 19:48:19 /2025-03-08/
+2025-03-08 19:48:19,301 - WARNING - Skipping malformed line: 
+2025-03-08 19:48:19,301 - WARNING - Skipping malformed line: [19:48:19] [WARNING] the minimum HTTP timeout is 3 seconds, sqlmap will going to reset it
+2025-03-08 19:48:19,319 - WARNING - Skipping malformed line: [19:48:19] [INFO] testing connection to the target URL
+2025-03-08 19:48:19,402 - WARNING - Skipping malformed line: [19:48:19] [WARNING] potential permission problems detected ('Access denied')
+2025-03-08 19:48:19,402 - WARNING - Skipping malformed line: [19:48:19] [WARNING] the web server responded with an HTTP error code (403) which could interfere with the results of the tests
+2025-03-08 19:48:19,402 - WARNING - Skipping malformed line: [19:48:19] [INFO] testing if the target URL content is stable
+2025-03-08 19:48:19,924 - WARNING - Skipping malformed line: [19:48:19] [WARNING] target URL content is not stable (i.e. content differs). sqlmap will base the page comparison on a sequence matcher. If no dynamic nor injectable parameters are detected, or in case of junk results, refer to user's manual paragraph 'Page comparison'
+2025-03-08 19:48:19,924 - WARNING - Skipping malformed line: how do you want to proceed? [(C)ontinue/(s)tring/(r)egex/(q)uit] C
+2025-03-08 19:48:19,924 - WARNING - Skipping malformed line: [19:48:19] [CRITICAL] no parameter(s) found for testing in the provided data (e.g. GET parameter 'id' in 'www.site.com/index.php?id=1'). You are advised to rerun with '--crawl=2'
+2025-03-08 19:48:19,924 - WARNING - Skipping malformed line: [19:48:19] [WARNING] HTTP error codes detected during run:
+2025-03-08 19:48:19,924 - WARNING - Skipping malformed line: 403 (Forbidden) - 2 times
+2025-03-08 19:48:19,924 - WARNING - Skipping malformed line: 
+2025-03-08 19:48:19,924 - WARNING - Skipping malformed line: [*] ending @ 19:48:19 /2025-03-08/
+2025-03-08 19:48:19,924 - WARNING - Skipping malformed line: 
+2025-03-08 19:48:20,009 - WARNING - Skipping malformed line: XSS Scan in progress...
+2025-03-08 19:48:20,009 - WARNING - Skipping malformed line: Running Nmap Scan...
+2025-03-08 19:48:20,110 - WARNING - Skipping malformed line: Starting Nmap 7.94 ( https://nmap.org ) at 2025-03-08 19:48 +0545
+2025-03-08 20:00:01,509 - WARNING - Skipping malformed line: SQL Injection Scan in progress...
+2025-03-08 20:00:01,710 - WARNING - Skipping malformed line: ___
+2025-03-08 20:00:01,710 - WARNING - Skipping malformed line: __H__
+2025-03-08 20:00:01,710 - WARNING - Skipping malformed line: ___ ___["]_____ ___ ___  {1.9.2#pip}
+2025-03-08 20:00:01,710 - WARNING - Skipping malformed line: |_ -| . [']     | .'| . |
+2025-03-08 20:00:01,710 - WARNING - Skipping malformed line: |___|_  [)]_|_|_|__,|  _|
+2025-03-08 20:00:01,710 - WARNING - Skipping malformed line: |_|V...       |_|   https://sqlmap.org
+2025-03-08 20:00:01,710 - WARNING - Skipping malformed line: 
+2025-03-08 20:00:01,710 - WARNING - Skipping malformed line: [!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+2025-03-08 20:00:01,710 - WARNING - Skipping malformed line: 
+2025-03-08 20:00:01,710 - WARNING - Skipping malformed line: [*] starting @ 20:00:01 /2025-03-08/
+2025-03-08 20:00:01,710 - WARNING - Skipping malformed line: 
+2025-03-08 20:00:01,710 - WARNING - Skipping malformed line: [20:00:01] [WARNING] the minimum HTTP timeout is 3 seconds, sqlmap will going to reset it
+2025-03-08 20:00:01,810 - WARNING - Skipping malformed line: [20:00:01] [INFO] testing connection to the target URL
+2025-03-08 20:00:01,911 - WARNING - Skipping malformed line: [20:00:01] [WARNING] potential permission problems detected ('Access denied')
+2025-03-08 20:00:01,911 - WARNING - Skipping malformed line: [20:00:01] [WARNING] the web server responded with an HTTP error code (403) which could interfere with the results of the tests
+2025-03-08 20:00:01,911 - WARNING - Skipping malformed line: [20:00:01] [INFO] testing if the target URL content is stable
+2025-03-08 20:00:02,416 - WARNING - Skipping malformed line: [20:00:02] [WARNING] target URL content is not stable (i.e. content differs). sqlmap will base the page comparison on a sequence matcher. If no dynamic nor injectable parameters are detected, or in case of junk results, refer to user's manual paragraph 'Page comparison'
+2025-03-08 20:00:02,416 - WARNING - Skipping malformed line: how do you want to proceed? [(C)ontinue/(s)tring/(r)egex/(q)uit] C
+2025-03-08 20:00:02,416 - WARNING - Skipping malformed line: [20:00:02] [CRITICAL] no parameter(s) found for testing in the provided data (e.g. GET parameter 'id' in 'www.site.com/index.php?id=1'). You are advised to rerun with '--crawl=2'
+2025-03-08 20:00:02,416 - WARNING - Skipping malformed line: [20:00:02] [WARNING] HTTP error codes detected during run:
+2025-03-08 20:00:02,416 - WARNING - Skipping malformed line: 403 (Forbidden) - 2 times
+2025-03-08 20:00:02,416 - WARNING - Skipping malformed line: 
+2025-03-08 20:00:02,416 - WARNING - Skipping malformed line: [*] ending @ 20:00:02 /2025-03-08/
+2025-03-08 20:00:02,416 - WARNING - Skipping malformed line: 
+2025-03-08 20:00:07,691 - WARNING - Skipping malformed line: XSS Scan in progress...
+2025-03-08 20:00:10,377 - WARNING - Skipping malformed line: SQL Injection Scan in progress...
+2025-03-08 20:00:10,664 - WARNING - Skipping malformed line: ___
+2025-03-08 20:00:10,664 - WARNING - Skipping malformed line: __H__
+2025-03-08 20:00:10,664 - WARNING - Skipping malformed line: ___ ___[,]_____ ___ ___  {1.9.2#pip}
+2025-03-08 20:00:10,664 - WARNING - Skipping malformed line: |_ -| . [.]     | .'| . |
+2025-03-08 20:00:10,664 - WARNING - Skipping malformed line: |___|_  [.]_|_|_|__,|  _|
+2025-03-08 20:00:10,664 - WARNING - Skipping malformed line: |_|V...       |_|   https://sqlmap.org
+2025-03-08 20:00:10,664 - WARNING - Skipping malformed line: 
+2025-03-08 20:00:10,665 - WARNING - Skipping malformed line: [!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+2025-03-08 20:00:10,665 - WARNING - Skipping malformed line: 
+2025-03-08 20:00:10,665 - WARNING - Skipping malformed line: [*] starting @ 20:00:10 /2025-03-08/
+2025-03-08 20:00:10,665 - WARNING - Skipping malformed line: 
+2025-03-08 20:00:10,665 - WARNING - Skipping malformed line: [20:00:10] [WARNING] the minimum HTTP timeout is 3 seconds, sqlmap will going to reset it
+2025-03-08 20:00:10,665 - WARNING - Skipping malformed line: [20:00:10] [INFO] testing connection to the target URL
+2025-03-08 20:00:10,766 - WARNING - Skipping malformed line: [20:00:10] [WARNING] potential permission problems detected ('Access denied')
+2025-03-08 20:00:10,766 - WARNING - Skipping malformed line: [20:00:10] [WARNING] the web server responded with an HTTP error code (403) which could interfere with the results of the tests
+2025-03-08 20:00:10,766 - WARNING - Skipping malformed line: [20:00:10] [INFO] testing if the target URL content is stable
+2025-03-08 20:00:11,272 - WARNING - Skipping malformed line: [20:00:11] [WARNING] target URL content is not stable (i.e. content differs). sqlmap will base the page comparison on a sequence matcher. If no dynamic nor injectable parameters are detected, or in case of junk results, refer to user's manual paragraph 'Page comparison'
+2025-03-08 20:00:11,272 - WARNING - Skipping malformed line: how do you want to proceed? [(C)ontinue/(s)tring/(r)egex/(q)uit] C
+2025-03-08 20:00:11,272 - WARNING - Skipping malformed line: [20:00:11] [CRITICAL] no parameter(s) found for testing in the provided data (e.g. GET parameter 'id' in 'www.site.com/index.php?id=1'). You are advised to rerun with '--crawl=2'
+2025-03-08 20:00:11,272 - WARNING - Skipping malformed line: [20:00:11] [WARNING] HTTP error codes detected during run:
+2025-03-08 20:00:11,272 - WARNING - Skipping malformed line: 403 (Forbidden) - 2 times
+2025-03-08 20:00:11,272 - WARNING - Skipping malformed line: 
+2025-03-08 20:00:11,272 - WARNING - Skipping malformed line: [*] ending @ 20:00:11 /2025-03-08/
+2025-03-08 20:00:11,272 - WARNING - Skipping malformed line: 
+2025-03-08 20:00:11,273 - WARNING - Skipping malformed line: XSS Scan in progress...
+2025-03-08 20:00:11,273 - WARNING - Skipping malformed line: Running Nmap Scan...
+2025-03-08 20:00:12,086 - WARNING - Skipping malformed line: Starting Nmap 7.94 ( https://nmap.org ) at 2025-03-08 20:00 +0545
+2025-03-08 20:01:13,229 - WARNING - Skipping malformed line: Nmap scan report for tryhackme.com (172.67.27.10)
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: Host is up (0.0062s latency).
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: Other addresses for tryhackme.com (not scanned): 2606:4700:10::ac43:1b0a 2606:4700:10::6816:37e4 2606:4700:10::6816:36e4 104.22.54.228 104.22.55.228
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: Not shown: 996 filtered tcp ports (no-response)
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: PORT     STATE SERVICE  VERSION
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: 80/tcp   open  http     Cloudflare http proxy
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_http-title: Did not follow redirect to https://tryhackme.com/
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: 443/tcp  open  ssl/http Cloudflare http proxy
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: | ssl-cert: Subject: commonName=tryhackme.com
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: | Subject Alternative Name: DNS:tryhackme.com, DNS:*.tryhackme.com
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: | Not valid before: 2025-02-02T01:04:55
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_Not valid after:  2025-05-03T02:04:50
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: | http-robots.txt: 3 disallowed entries
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: | /voucher/* /path/outline/introtocyber
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_/path/outline/beginner
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_http-trane-info: Problem with XML parsing of /evox/about
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: 8080/tcp open  http     Cloudflare http proxy
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_http-title: Did not follow redirect to https://tryhackme.com/
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: 8443/tcp open  ssl/http Cloudflare http proxy
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: | ssl-cert: Subject: commonName=tryhackme.com
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: | Subject Alternative Name: DNS:tryhackme.com, DNS:*.tryhackme.com
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: | Not valid before: 2025-02-02T01:04:55
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_Not valid after:  2025-05-03T02:04:50
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_http-trane-info: Problem with XML parsing of /evox/about
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: | http-robots.txt: 3 disallowed entries
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: | /voucher/* /path/outline/introtocyber
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_/path/outline/beginner
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: 
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: Nmap done: 1 IP address (1 host up) scanned in 61.21 seconds
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: Nmap Scan Completed.
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: ====== Nmap Scan Report ======
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: # Nmap 7.94 scan initiated Sat Mar  8 20:00:12 2025 as: nmap -sV -A -T4 -oN nmap_results.txt tryhackme.com
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: Nmap scan report for tryhackme.com (172.67.27.10)
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: Host is up (0.0062s latency).
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: Other addresses for tryhackme.com (not scanned): 2606:4700:10::ac43:1b0a 2606:4700:10::6816:37e4 2606:4700:10::6816:36e4 104.22.54.228 104.22.55.228
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: Not shown: 996 filtered tcp ports (no-response)
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: PORT     STATE SERVICE  VERSION
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: 80/tcp   open  http     Cloudflare http proxy
+2025-03-08 20:01:13,230 - WARNING - Skipping malformed line: |_http-title: Did not follow redirect to https://tryhackme.com/
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: 443/tcp  open  ssl/http Cloudflare http proxy
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: | ssl-cert: Subject: commonName=tryhackme.com
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: | Subject Alternative Name: DNS:tryhackme.com, DNS:*.tryhackme.com
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: | Not valid before: 2025-02-02T01:04:55
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: |_Not valid after:  2025-05-03T02:04:50
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: | http-robots.txt: 3 disallowed entries
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: | /voucher/* /path/outline/introtocyber
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: |_/path/outline/beginner
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: |_http-trane-info: Problem with XML parsing of /evox/about
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: 8080/tcp open  http     Cloudflare http proxy
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: |_http-title: Did not follow redirect to https://tryhackme.com/
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: 8443/tcp open  ssl/http Cloudflare http proxy
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: | ssl-cert: Subject: commonName=tryhackme.com
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: | Subject Alternative Name: DNS:tryhackme.com, DNS:*.tryhackme.com
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: | Not valid before: 2025-02-02T01:04:55
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: |_Not valid after:  2025-05-03T02:04:50
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: |_http-trane-info: Problem with XML parsing of /evox/about
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: |_http-server-header: cloudflare
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: | http-robots.txt: 3 disallowed entries
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: | /voucher/* /path/outline/introtocyber
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: |_/path/outline/beginner
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: 
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: # Nmap done at Sat Mar  8 20:01:13 2025 -- 1 IP address (1 host up) scanned in 61.21 seconds
+2025-03-08 20:01:13,231 - WARNING - Skipping malformed line: ==============================
+2025-03-09 09:07:29,502 - WARNING - Skipping malformed line: SQL Injection Scan in progress...
+2025-03-09 09:07:29,806 - WARNING - Skipping malformed line: ___
+2025-03-09 09:07:29,806 - WARNING - Skipping malformed line: __H__
+2025-03-09 09:07:29,806 - WARNING - Skipping malformed line: ___ ___[,]_____ ___ ___  {1.9.2#pip}
+2025-03-09 09:07:29,806 - WARNING - Skipping malformed line: |_ -| . [(]     | .'| . |
+2025-03-09 09:07:29,806 - WARNING - Skipping malformed line: |___|_  [(]_|_|_|__,|  _|
+2025-03-09 09:07:29,806 - WARNING - Skipping malformed line: |_|V...       |_|   https://sqlmap.org
+2025-03-09 09:07:29,806 - WARNING - Skipping malformed line: 
+2025-03-09 09:07:29,806 - WARNING - Skipping malformed line: [!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+2025-03-09 09:07:29,806 - WARNING - Skipping malformed line: 
+2025-03-09 09:07:29,806 - WARNING - Skipping malformed line: [*] starting @ 09:07:29 /2025-03-09/
+2025-03-09 09:07:29,806 - WARNING - Skipping malformed line: 
+2025-03-09 09:07:29,806 - WARNING - Skipping malformed line: [09:07:29] [INFO] testing connection to the target URL
+2025-03-09 09:07:30,508 - WARNING - Skipping malformed line: [09:07:30] [INFO] checking if the target is protected by some kind of WAF/IPS
+2025-03-09 09:07:30,825 - WARNING - Skipping malformed line: [09:07:30] [INFO] testing if the target URL content is stable
+2025-03-09 09:07:31,621 - WARNING - Skipping malformed line: [09:07:31] [INFO] target URL content is stable
+2025-03-09 09:07:31,621 - WARNING - Skipping malformed line: [09:07:31] [INFO] testing if parameter 'User-Agent' is dynamic
+2025-03-09 09:07:31,621 - WARNING - Skipping malformed line: [09:07:31] [WARNING] parameter 'User-Agent' does not appear to be dynamic
+2025-03-09 09:07:31,722 - WARNING - Skipping malformed line: [09:07:31] [WARNING] heuristic (basic) test shows that parameter 'User-Agent' might not be injectable
+2025-03-09 09:07:32,123 - WARNING - Skipping malformed line: [09:07:32] [INFO] testing for SQL injection on parameter 'User-Agent'
+2025-03-09 09:07:32,124 - WARNING - Skipping malformed line: [09:07:32] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+2025-03-09 09:07:41,042 - WARNING - Skipping malformed line: [09:07:40] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause'
+2025-03-09 09:07:59,302 - WARNING - Skipping malformed line: [09:07:57] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (NOT)'
+2025-03-09 09:08:06,182 - WARNING - Skipping malformed line: [09:08:06] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+2025-03-09 09:08:10,481 - WARNING - Skipping malformed line: [09:08:10] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+2025-03-09 09:08:19,225 - WARNING - Skipping malformed line: [09:08:19] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (comment)'
+2025-03-09 09:08:22,345 - WARNING - Skipping malformed line: [09:08:22] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (comment)'
+2025-03-09 09:08:29,414 - WARNING - Skipping malformed line: [09:08:29] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+2025-03-09 09:08:33,756 - WARNING - Skipping malformed line: [09:08:33] [INFO] testing 'OR boolean-based blind - WHERE or HAVING clause (MySQL comment)'
